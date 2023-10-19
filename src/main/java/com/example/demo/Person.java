@@ -5,4 +5,7 @@ package com.example.demo;
  * @create 2023-10-20 2:47
  */
 public class Person {
+    public static void main(String[] args) {
+
+    }
 }
