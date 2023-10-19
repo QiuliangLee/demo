@@ -11,5 +11,6 @@ public class Person {
 
     public void test(){
         System.out.println("main");
+        System.out.println("main2");
     }
 }
