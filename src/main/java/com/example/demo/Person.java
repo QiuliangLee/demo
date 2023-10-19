@@ -6,7 +6,7 @@ package com.example.demo;
  */
 public class Person {
     public static void main(String[] args) {
-        System.out.println("5");
+        System.out.println("6");
     }
 
     public void test(){
